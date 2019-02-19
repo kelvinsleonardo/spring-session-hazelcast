@@ -6,4 +6,4 @@ Install Java 11 to run the application, and set environment variable JAVA_HOME w
 ```sh
 $ ./mvnw -q (run tomcat)
 $ ./mvnw -Pundertow -q (run with undertow)
-$  ./mvnw -Pjetty -q (run with jetty)
+$ ./mvnw -Pjetty -q (run with jetty)
